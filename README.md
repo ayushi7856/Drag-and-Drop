@@ -1,5 +1,5 @@
 # Drag and drop multiple zones
 
-![Drag and Drop](Drag and Drop.png)
+![Drag and Drop](Drag%20and%20Drop.png)
 
 
